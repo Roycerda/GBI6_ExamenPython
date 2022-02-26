@@ -1,0 +1,13 @@
+Interprete los resultados del ejercicio 4
+
+Grafica 1
+
+En la distribucion normal se representa el conteo artículos por año, ademas existe una media de 12.8 y una desviacion estandar de 12.7 esos conteos de artículos. Sobre todo muestra la probabilidad de publicaciones que se han realizado en cada año.
+
+Grafica 2
+
+La grafica 2 representa el boxplot de conteo de autores por artículo, pero es este caso solo se hizo el boxplot de 4 datos y no de todos los datos de conteo, entonces nos muestra la cantidad de autores que está en cada artículo enumerado. Por ejemplo, en el artículo número 190 están un total de 7 autores. Cabe recalcar que las cajas están presentando el número de articulo, por lo que en las primeras se ven como una línea, pero en esos artículos hay 12 y 14 autores respectivamente.
+
+Grafica 3
+
+En la gráfica 3 se representa la cantidad de autores y los paises donde han sido publicados los articulos. Y los otros puntos de color igual manera estan representando los paises donde estan los autores que estan relacionados con el tema Ecuador Genomic.
